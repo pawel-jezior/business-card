@@ -40,6 +40,13 @@ body {
   margin-top: 22px;
 }
 
+.person__picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-right: 32px;
+}
+
 .person__position {
   font-size: 18px;
   font-style: italic;
@@ -55,14 +62,40 @@ body {
   margin: 10px;
 }
 
-.person__picture {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-  margin-right: 32px;
-}
-
 .special {
   color: #ed6d05;
   font-weight: normal;
+}
+
+@media screen and (max-width: 767px) {
+  .main {
+    width: 500px;
+    text-align: center;
+  }
+
+  .person {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .person__picture {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .main {
+    width: 312px;
+  }
+
+  .person {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .person__picture {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
 }
