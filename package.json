@@ -1,0 +1,25 @@
+{
+  "name": "business-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "npx node-sass -w scss/main.scss style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawel-jezior/business-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawel-jezior/business-card/issues"
+  },
+  "homepage": "https://github.com/pawel-jezior/business-card#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1",
+    "normalize.css": "^8.0.1"
+  }
+}
