@@ -1,8 +1,11 @@
-![Preview] (https://github.com/pawel-jezior/business-card/blob/main/readme_picture.PNG)
+![preview] (./gh/readme_picture.png)
 # Business-Card
 Simply project, where I used:
 - HTML
 - SCSS with Flexbox
 - NPM
 
-## You can find presentation [Here] (https://pawel-jezior.github.io/business-card/)
+## Run with:
+- npm install
+## You can find presentation
+[Here] (https://pawel-jezior.github.io/business-card/)
