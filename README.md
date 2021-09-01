@@ -1,4 +1,4 @@
-![preview] (gh/readme_picture.PNG)
+![preview](gh/readme_picture.PNG)
 # Business-Card
 Simply project, where I used:
 - HTML
@@ -6,5 +6,4 @@ Simply project, where I used:
 - NPM
 ## Run with:
 - npm install
-## You can find presentation
-[Here] (https://pawel-jezior.github.io/business-card/)
+### You can find presentation [here](https://pawel-jezior.github.io/business-card/) on any device!
