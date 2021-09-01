@@ -1,4 +1,4 @@
-![preview] (./gh/readme_picture.PNG)
+![preview] (gh/readme_picture.PNG)
 # Business-Card
 Simply project, where I used:
 - HTML
